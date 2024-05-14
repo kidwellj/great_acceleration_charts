@@ -1,1 +1,3 @@
-# great_acceleration_charts
+# Making "The Great Acceleration" Charts
+
+The "great acceleration" is a now iconic visualisation of the anthropocene. And the authors of the paper were kind enough to make the underpinning data available. However, the chart itself is covered by a restrictive license and reproducing it in journals requires permission and payment to a journal publisher. This is ironic and undesirable given it is publicly funded research. However, if we can legally produce a similar chart using the data which has been provided, the resulting chart is not covered by a restrictive license as you have made it! Out of frustration and an overwrought sense of principle, I've written R code to quickly reproduce the charts so you can use them in your publications without all the fuss and deference to journal publishing companies.
